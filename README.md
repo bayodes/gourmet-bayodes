@@ -1,22 +1,23 @@
-# Getting Started with Create React App
+# OpenAI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Summary
 
-## Available Scripts
+This project is a modern UX/UI website first made with Figma and then created using HTML, CSS and React. 
 
-In the project directory, you can run:
+## Technical Requirements
 
-### `npm start`
+-   The site should be responsive
+-   React Functional components and their reusability
+-   React file and folder structure
+-   Fundamental CSS properties to master flex & grid
+-   Fundamentals of the CSS BEM Model
+-   The site should have a good theme and should be like the Figma design
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Links
+You can find the Figma design [here](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A1&t=ekiZSKY5veNlVAzn-0) and the live site [here] (https://gourmet-bayodes.com/) 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
