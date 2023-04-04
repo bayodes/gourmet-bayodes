@@ -14,7 +14,7 @@ This project is a modern UX/UI website first made with Figma and then created us
 -   The site should have a good theme and should be like the Figma design
 
 ## Links
-You can find the Figma design [here](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A1&t=ekiZSKY5veNlVAzn-0) and the live site [here] (https://gourmet-bayodes.com/) 
+You can find the Figma design [here](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A1&t=ekiZSKY5veNlVAzn-0) and the live site [here](htpp://gourmet-bayodes.com)
 
 
 
