@@ -2,7 +2,18 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <Navbar />
+      <Header />
+      <About />
+      <SpecialMenu />
+      <Chef />
+      <Intro />
+      <Laurels />
+      <Gallery />
+      <FindUs />
+      <Footer />
+    </div>
   )
 }
 
