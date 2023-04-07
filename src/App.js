@@ -1,12 +1,14 @@
 import React from 'react'
+import { Navbar } from './components'
+import { AboutUs, Chef, FindUs, Footer, Gallery, Header, Intro, Laurels, Menu } from './containers'
 
 const App = () => {
   return (
     <div>
       <Navbar />
       <Header />
-      <About />
-      <SpecialMenu />
+      <AboutUs />
+      <Menu />
       <Chef />
       <Intro />
       <Laurels />
