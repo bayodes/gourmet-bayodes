@@ -1,22 +1,22 @@
-import React from 'react'
-import { Navbar } from './components'
-import { AboutUs, Chef, FindUs, Footer, Gallery, Header, Intro, Laurels, Menu } from './containers'
+import React from 'react';
 
-const App = () => {
-  return (
-    <div>
-      <Navbar />
-      <Header />
-      <AboutUs />
-      <Menu />
-      <Chef />
-      <Intro />
-      <Laurels />
-      <Gallery />
-      <FindUs />
-      <Footer />
-    </div>
-  )
-}
+import { AboutUs, Chef, FindUs, Footer, Gallery, Header, Intro, Laurels, Menu } from './containers';
+import { Navbar } from './components';
+import './App.css';
 
-export default App
+const App = () => (
+  <div>
+    <Navbar />
+    <Header />
+    <AboutUs />
+    <Menu />
+    <Chef />
+    <Intro />
+    <Laurels />
+    <Gallery />
+    <FindUs />
+    <Footer />
+  </div>
+);
+
+export default App;
