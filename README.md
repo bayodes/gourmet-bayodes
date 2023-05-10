@@ -2,11 +2,11 @@
 
 ## Summary
 
-This project is a modern UX/UI website first made with Figma and then created using HTML, CSS and React. 
+This project is a modern UX/UI landing page first made with Figma and then created using HTML, CSS and React. 
 
 ## Technical Requirements
 
--   The site should be responsive
+-   The page should be responsive
 -   React Functional components and their reusability
 -   React file and folder structure
 -   Fundamental CSS properties to master flex & grid
